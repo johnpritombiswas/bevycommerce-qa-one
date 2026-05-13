@@ -23,4 +23,7 @@ Client Figma Requirements:
 
 <img width="1920" height="4854" alt="Bevy QA Test" src="https://github.com/user-attachments/assets/5eebc06d-af78-4ef2-b8dc-9cb2952c0708" />
 
+---
 
+##  Figma Link:
+[Figma Site](https://www.figma.com/design/X1E4Dir0idjE5YOWwm04Ec/Bevy-QA-Test?node-id=0-1&p=f&t=fp6ew7efd3y7ot1X-0)
