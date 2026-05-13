@@ -5,3 +5,14 @@ But now i plan to write proper bug issues for this site here in this repo with p
 Also as per the instructions of the exam provided i will try to ignore the header and footer and mainly focus on UI/UX and payment functionality more.
 Bugs will be logged using jam windows extentation free version.
 This site might go under Private Depending on response from bevycommerce request/policy.
+
+---
+
+## 🌐 Site Under Test
+[testing Site](bevycommerce-qa-one.myshopify.com)
+
+---
+
+## 🧑‍💻 Tester
+**John Pritom Biswas** — Functional QA  
+Tested as part of Coderbyte QA Assessment
