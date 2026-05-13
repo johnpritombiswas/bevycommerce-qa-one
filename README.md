@@ -38,7 +38,7 @@ Client Figma Requirements:
 
 ## Steps to follow
 1. Start the recording.
-2, Visite the test site: [Note: Do not visit the URL unless you're ready and recording]
+2. Visite the test site: [Note: Do not visit the URL unless you're ready and recording]
 3. Enter store password"bevy"
 4.open the first product you see on this page.
 5. Ignore the navagation bar and the footer. Your Area of interest should be everything else except the navigation and footer, and you must test everything throughly.
