@@ -9,7 +9,7 @@ This site might go under Private Depending on response from bevycommerce request
 ---
 
 ## 🌐 Site Under Test
-[testing Site](bevycommerce-qa-one.myshopify.com)
+[testing Site](https://www.bevycommerce-qa-one.myshopify.com)
 
 ---
 
