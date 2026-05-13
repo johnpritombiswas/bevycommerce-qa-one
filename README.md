@@ -27,3 +27,7 @@ Client Figma Requirements:
 
 ##  Figma Link:
 [Figma Site](https://www.figma.com/design/X1E4Dir0idjE5YOWwm04Ec/Bevy-QA-Test?node-id=0-1&p=f&t=fp6ew7efd3y7ot1X-0)
+
+
+## Candidate Guide to taking an assessment for codebyte
+[Guide Site](https://help.coderbyte.com/knowledge/candidate-guide-to-taking-an-assessment)
