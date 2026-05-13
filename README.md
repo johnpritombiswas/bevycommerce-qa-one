@@ -16,3 +16,11 @@ This site might go under Private Depending on response from bevycommerce request
 ## 🧑‍💻 Tester
 **John Pritom Biswas** — Functional QA  
 Tested as part of Coderbyte QA Assessment
+
+---
+
+Client Figma Requirements:
+
+<img width="1920" height="4854" alt="Bevy QA Test" src="https://github.com/user-attachments/assets/5eebc06d-af78-4ef2-b8dc-9cb2952c0708" />
+
+
